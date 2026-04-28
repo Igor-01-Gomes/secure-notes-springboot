@@ -38,3 +38,5 @@ bin/
 ### Environment variables
 .env
 
+### DB H2
+*.mv.db
